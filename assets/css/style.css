@@ -43,7 +43,14 @@ header nav ul li a {
     margin: 0 30px;
     font-weight: bold;
     font-size: 20px;
+    border-bottom: solid black;
 }
+
+h2 {
+    float: right;
+    font-size: 50px;
+}
+
 
 footer a {
     text-decoration: none;
@@ -51,9 +58,22 @@ footer a {
     font-size: 50px;
 }
 
-h2 {
-    float: right;
+h3 {
+    Float: left;
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    border-right: 5px solid #000000;
 }
+
+h4 {
+    Float: left;
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    border-right: 5px solid #000000;
+}
+
 
 footer nav {
     text-align: center;
@@ -71,6 +91,12 @@ footer nav ul li a {
 
 }
 
+footer h5 a {
+    float: left;
+    border-right: 5px solid #000000;
+    color: black;
+}
+
 section {
 
     padding: 60px
@@ -78,7 +104,6 @@ section {
 
 .hero {
 background-image: url('../images/Hero-bg.jpg');
-
-
+height: 150px;
 }
     
