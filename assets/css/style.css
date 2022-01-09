@@ -103,7 +103,7 @@ h4 {
 
 h5 {
 
-    color: white;
+    color: gray;
     line-height: 90px;
     float: right;
     font-size: 20px; 
@@ -112,7 +112,7 @@ h5 {
 
 h6 {
 
-    color: royalblue;
+    color: whitesmoke;
     line-height: 90px;
     float: left;    
 
@@ -128,7 +128,7 @@ h7 {
 
 h8 {
 
-    color: royalblue;
+    color: teal;
     line-height: 90px;
     float: left;    
 
@@ -136,11 +136,12 @@ h8 {
 
 h9 {
 
-    color: white;
+    color: whitesmoke;
     line-height: 90px;
-    float: left;    
+    float: left;  
     
 }
+
 
 main {
   grid-area: main;
