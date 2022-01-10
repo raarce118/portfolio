@@ -8,7 +8,7 @@ To showcase what skills I have developed thus far in my career, what I am curren
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://raarce118.github.io/portfolio/
 
 ## Contribution
 Made with ❤️ by [Rich]
