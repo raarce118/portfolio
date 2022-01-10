@@ -8,7 +8,7 @@ body {
 body {
     margin: 0;
     display:grid;
-    grid-template-columns: 5% auto auto auto;
+    grid-template-columns: 7% auto auto auto;
     grid-template-rows: 7% 5% 10% auto auto auto 5%;
     grid-gap: 10px;
     grid-template-areas:
@@ -84,11 +84,12 @@ h2 {
     float: left;
     position: relative;
     font-size: 20px;
+    margin: 20px;
 }
 
 h3 {
     color: white;
-    line-height: 90px;
+    line-height: 300px;
     float: left;
 }
 
